@@ -1,0 +1,44 @@
+body
+{
+   background-color: rgb(209, 255, 253);
+   
+
+}
+   .middle
+   
+   {
+
+
+
+background-color: rgb(218, 238, 255);
+padding-left : 45%;
+border : solid rgb(0, 247, 255) ;
+}
+h1
+{
+
+color :  coral ; 
+text-decoration:rgb(112, 91, 91);
+text-shadow: rgb(255, 0, 162);
+text-transform: capitalize; 
+
+
+}
+a:link {
+   color : pink ; 
+
+}
+
+a:visited {
+
+   color:rgb(255, 0, 0) ;
+
+}
+.grid 
+{
+
+display:flex ;
+flex-wrap: wrap ; 
+justify-content:space-evenly;
+flex-direction: row ;
+}
